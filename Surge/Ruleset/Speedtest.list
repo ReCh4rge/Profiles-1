@@ -1,3 +1,11 @@
 # > Speedtest by Ookla
 USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-KEYWORD,ookla
+DOMAIN-SUFFIX,ooklaserver.net
+
+# > Fast.com
+DOMAIN-SUFFIX,fast.com
+
+# > CloudFlare Speedtest
+DOMAIN,speed.cloudflare.com
