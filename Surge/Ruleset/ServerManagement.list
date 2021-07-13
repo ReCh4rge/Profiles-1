@@ -1,0 +1,6 @@
+# > BF4 Sever Management
+IP-CIDR,139.99.125.28/32,no-resolve
+IP-CIDR,103.193.80.27/32,no-resolve
+
+# > Fragnet
+DOMAIN-SUFFIX,fragnet.net
